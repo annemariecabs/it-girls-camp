@@ -1,6 +1,8 @@
 This is where all our slides are going to be stored.
 I'm trying to put them all in as both pdfs (which can be viewed on here) and powerpoints (which need to be downloaded).
 
+------------------
+
 The lesson schedule for the camp is:
 
 ### Day 1
@@ -21,5 +23,5 @@ The lesson schedule for the camp is:
 - Implementing & Using Classes
 - Projects
 
-## Day 5
+### Day 5
 - Projects
