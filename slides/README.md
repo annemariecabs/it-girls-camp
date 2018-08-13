@@ -1,4 +1,4 @@
-This is where all our slides are going to be stored.
+This is where all our slides and challenge sheets are going to be stored.
 I'm trying to put them all in as both pdfs (which can be viewed on here) and powerpoints (which need to be downloaded).
 
 ------------------
