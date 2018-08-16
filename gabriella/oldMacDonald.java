@@ -38,4 +38,15 @@ booleon = true or false
 double = decimal
 these are datatypes
 datatype name = value;
+initialization = give it a value
+e.g. = num = 5;
+modulo = %conditionals are if, than statements
+e.g. if ( it does not rain ) than I wouln't bring my unbrella
+if a is less than b
+= assignment, gives value
+== compares two things
+&& = and
+|| = or 
+! = not
+!= = not equal
 */

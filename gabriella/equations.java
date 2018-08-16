@@ -25,5 +25,31 @@ public class equations {
       int miles = 98,gallons = 5; 
       double gasMileage = miles / gallons;
       System.out.println(gasMileage);
-   
- 
+      
+      int x = 4;
+      int y =-3;
+      int z = 4;
+      if (x == 4)
+         System.out.println ("true");
+      if (x == y)
+         System.out.println ("true");
+      if (x == z)
+         System.out.println ("true");
+      if (y == z)
+         System.out.println ("true");
+      if (x + y > 0)
+         System.out.println ("true");
+      if (x - z != 0)
+         System.out.println ("true");
+      if (y * y >= 0)
+         System.out.println ("true");
+      if (y / y == 1)
+         System.out.println ("true");  
+      if (x * (y + 2) > y - (y + z) * 2)
+         System.out.println ("true");
+      else {
+         System.out.println ("false");
+         
+               }
+   }
+}
