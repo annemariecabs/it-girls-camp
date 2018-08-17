@@ -8,20 +8,19 @@ The lesson schedule for the camp is:
 ### Day 1
 - What is Coding?
 - Methods & Other Stuff
-- Variables
 
 ### Day 2
+- Variables
+
+
+### Day 3
 - Conditionals
 - Loops
 
-### Day 3
-- Arrays
-- Strings
-- Objects & Clases
 
 ### Day 4
-- Implementing & Using Classes
-- Projects
+- Strings
 
 ### Day 5
 - Projects
+- Pizza!
