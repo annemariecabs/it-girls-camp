@@ -18,8 +18,8 @@ System.out.println(getVerse( "Fox", " Wa-wa-way-do, wub-wid-bid-dum-way-do, wa-w
 System.out.println(getVerse( "Fox", " Bay-budabud-dum-bam"));
 System.out.println(getVerse( "Fox", " Mama-dum-day-do"));
 System.out.println(getVerse( "Fox", " Abay-ba-da bum-bum bay-do"));
-System.out.println(getVerse( "Fox", " ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"));
-System.out.println(getVerse( "Fox", " ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"));
+System.out.println(getVerse( "Fox", " Gering-ding-ding-ding-dingeringeding"));
+System.out.println(getVerse( "Fox", " Tchoff-tchoff-tchoffo-tchoffo-tchoff!"));
 System.out.println(getVerse( "Fox", " ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"));
 System.out.println(getVerse( "Fox", " ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"));
 System.out.println(getVerse( "Fox", " ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"));

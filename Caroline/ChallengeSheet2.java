@@ -1,27 +1,27 @@
 public class ChallengeSheet2 {
 
    public static void main (String[]args) {
-
-String s="01010101";
-String s2= s.replace("0,1");
-
-System.out.println(s);
-
-
-
-
-
-
-// String s="Miller, Caroline";
 // 
-// String s2= s.replace(",","");
+// String s="01010101";
+// String zero=s.substring
 // 
-// int k=s.indexOf(" ");
-// String first=s.substring(k+1);
-// String last=s.substring(0, k-1);
-// 
-// 
-// System.out.println(first+" "+last);
+// System.out.println(s);
+
+
+
+
+
+
+String s="Miller, Caroline";
+
+String s2= s.replace(",","");
+
+int k=s.indexOf(" ");
+String first=s.substring(k+1);
+String last=s.substring(0, k-1);
+
+
+System.out.println(first+" "+last);
 // 
 
 
