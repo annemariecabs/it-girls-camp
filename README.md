@@ -23,5 +23,5 @@ The lesson schedule for the camp was:
 - Strings
 
 ### Day 5
-- Projects
+- Projects (Rock, Paper, Scissors Game)
 - Pizza!
