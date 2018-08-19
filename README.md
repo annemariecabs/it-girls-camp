@@ -28,4 +28,4 @@ The lesson schedule for the camp was:
 
 ------------------
 
-Bishop Ireton is holding a hackathon ([Hack BI II](hackbi.org)) on November 3rd that all the girls are welcome to come to.
+Bishop Ireton is holding a hackathon ([Hack BI II](https://www.hackbi.org)) on November 3rd that all the girls are welcome to come to.
