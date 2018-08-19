@@ -1,6 +1,7 @@
 public class Test {
    public static void main(String[] args) {
        /* System.out.println(areaSquare(3,3));*/
+       int a = 4;
         System.out.println(areaTriangle((3 * 4) * 1/2));
         /* int miles = 98, gallons = 5;
          double gasMileage = miles / gallons;
